@@ -1,22 +1,35 @@
-#PGlife# 
+# 🏠 PGLife – Full Stack Web Project
 
+PGLife is a full-stack web application that helps users search for Paying Guest (PG) accommodations in different cities.  
+The project is built using **PHP**, **MySQL**, **HTML**, **CSS**, **JavaScript**, and runs locally using **XAMPP**.
 
-Welcome to PGlife, your one-stop solution for student housing management! Our website is fully functional and ready for deployment on your web server. Please follow the instructions below for a seamless experience:
+---
 
-Step 1: Watch Our Comprehensive Setup Video
-For a detailed demonstration on how to set up the entire project, please watch our full video tutorial on our YouTube channel. In this video, we provide a step-by-step guide on how to get started.
+## 📌 Features
+- User registration and login
+- Browse PG listings by city
+- View PG details (photos, description, price, facilities)
+- Contact form for inquiries
+- Responsive design
 
-Video link: https://youtu.be/A04U_LK6IkU?si=x9UDf096ZkvunBRo
+---
 
-Step 2: Get the Essential Components
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap
+- **Backend:** PHP
+- **Database:** MySQL
+- **Server:** Apache (via XAMPP)
 
-To get started, you'll need two crucial components:
+---
 
-a) GitHub Repository
-We've provided a GitHub repository that contains all the code and files necessary for your PGlife project. You can find it right here on this page.
+## 📂 Project Structure
 
-b) Database Management System (DBMS)
-Our Database Management System is hosted separately on Google Drive. To access the database file, please refer to the link in the YouTube video description.
+---
 
+## ⚙️ Installation & Setup (Local)
+1. **Install XAMPP**  
+   Download & install from: [https://www.apachefriends.org/download.html](https://www.apachefriends.org/download.html)
 
-Please feel free to let me know if you have any further revisions or specific changes you'd like to make.
+2. **Clone the repository**  
+   ```bash
+   git clone https://github.com/YourUsername/PGLife.git
