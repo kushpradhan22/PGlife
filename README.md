@@ -1,6 +1,6 @@
-# 🏠 PGLife – Full Stack Web Project
+# 🏠 RoomEase – Full Stack Web Project
 
-PGLife is a full-stack web application that helps users search for Paying Guest (PG) accommodations in different cities.  
+RoomEase is a full-stack web application that helps users search for Paying Guest (PG) accommodations in different cities.  
 The project is built using **PHP**, **MySQL**, **HTML**, **CSS**, **JavaScript**, and runs locally using **XAMPP**.
 
 ---
@@ -32,4 +32,4 @@ The project is built using **PHP**, **MySQL**, **HTML**, **CSS**, **JavaScript**
 
 2. **Clone the repository**  
    ```bash
-   git clone https://github.com/YourUsername/PGLife.git
+   git clone https://github.com/YourUsername/RoomEase.git
